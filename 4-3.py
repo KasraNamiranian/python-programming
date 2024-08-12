@@ -6,5 +6,5 @@ def polygon(t,n,length):
         t.lt(deg)
 
 bob=turtle.Turtle()
-square(bob,12,100)
+polygon(bob,12,100)
 turtle.mainloop()
